@@ -277,6 +277,89 @@
                         "endDate": 0
                     }
                 ]
+            },{
+                "id": "doodles",
+                "title": "Doodles",
+                "description": "Weird Doodle Collection",
+                "images": [
+                    {
+                        "id": "default_4",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/default.jpg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "41",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/1.jpg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "42",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/2.webp",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "43",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/3.jpg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "44",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/4.jpg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "45",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/5.jpg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "46",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/6.jpg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "47",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/7.jpg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "48",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/8.jpeg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "410",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/10.jpg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    },
+                    {
+                        "id": "411",
+                        "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/11.jpeg",
+                        "tags": [],
+                        "startDate": 0,
+                        "endDate": 0
+                    }
+                ]
             }
         ]
     },
