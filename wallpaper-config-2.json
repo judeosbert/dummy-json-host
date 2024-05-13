@@ -7,331 +7,284 @@
         {
             "id": "default",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/default.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "1",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/1.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "2",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/2.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "3",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/3.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "4",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/4.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "5",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/5.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "6",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/6.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "7",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/7.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "8",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/8.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "9",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/9.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "10",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/10.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "11",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/nature/11.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "default_2",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/default.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "21",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/1.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "22",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/2.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "23",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/3.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "24",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/4.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "25",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/5.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "26",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/6.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "27",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/7.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "28",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/8.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "29",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/9.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "210",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/10.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "211",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/cars/11.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "default_3",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/default.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "31",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/1.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "32",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/2.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "33",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/3.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "34",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/4.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "35",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/5.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "36",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/6.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "37",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/7.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "38",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/8.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "39",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/9.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "310",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/10.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "311",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/pets/11.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "default_4",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/default.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "41",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/1.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "42",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/2.webp",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "43",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/3.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "44",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/4.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "45",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/5.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "46",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/6.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "47",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/7.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "48",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/8.jpeg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "410",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/10.jpg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         },
         {
             "id": "411",
             "url": "https://raw.githubusercontent.com/judeosbert/dummy-json-host/main/doodles/11.jpeg",
-            "tags": [],
-            "startDate": 0,
-            "endDate": 0
+            "title":"Sample Title",
+            "subtitle":"Sample Subtitle"
         }
     ]
 }
